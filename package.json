@@ -1,8 +1,8 @@
 {
-	"name": "vscode-sqlfluff",
-	"displayName": "sqlfluff",
+	"name": "vscode-sqlfluff-unofficial",
+	"displayName": "sqlfluff-unofficial",
 	"description": "A linter and auto-formatter for SQLfluff, a popular linting tool for SQL and dbt.",
-	"publisher": "dorzey",
+	"publisher": "itsvipa",
 	"license": "SEE LICENSE IN LICENSE",
 	"icon": "images/icon.png",
 	"homepage": "https://github.com/dorzey/vscode-sqlfluff",
@@ -13,7 +13,7 @@
 	"bugs": {
 		"url": "https://github.com/dorzey/vscode-sqlfluff/issues"
 	},
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
