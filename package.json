@@ -8,7 +8,7 @@
 	"homepage": "https://github.com/dorzey/vscode-sqlfluff",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dorzey/vscode-sqlfluff.git"
+		"url": "https://github.com/itsvipa/vscode-sqlfluff.git"
 	},
 	"bugs": {
 		"url": "https://github.com/dorzey/vscode-sqlfluff/issues"
